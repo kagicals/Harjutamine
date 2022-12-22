@@ -6,3 +6,11 @@ Repositoorium on koht, kus kood ja sellega seotud failid on salvestatud, ning se
 
 GitHub on tavaliselt kasutatud erinevate projektide jaoks, sealhulgas tarkvaraarenduse projektid, küberneetilised projektid ja dokumentatsiooniprojektid.
 Seda saab kasutada ka õppimiseks ja koodi ühistööks. GitHubi kasutavad paljud ettevõtted, organisatsioonid ja üksikisikud üle kogu maailma.
+
+
+GitHub Inc. asutati 2008. aastal ja esimene versioon teenusest oli kättesaadav alates 21. aprillist 2010.
+GitHubi asutasid Tom Preston-Werner, Chris Wanstrath ja PJ Hyett.
+
+GitHub on tänapäeval üks juhtivaid veebipõhiseid versioonihaldussüsteeme ja see on tavaliselt kasutatud professionaalsete programmeerijate poolt,
+kuid seda saavad kasutada ka mitteprofessionaalsed programmeerijad ja projektijuhid.
+GitHub võimaldab inimestel salvestada oma koodi repositooriumitesse, jagada seda teistega ja teha koostööd teiste programmeerijatega üle kogu maailma.
