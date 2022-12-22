@@ -1,0 +1,2 @@
+GitHub on veebipõhine versioonihaldussüsteem (VHS) ja platvorm, mis võimaldab inimestel jagada ja hallata koodi projekte.
+See on tavaliselt kasutatud professionaalsete programmeerijate poolt, kuid seda saavad kasutada ka mitteprofessionaalsed programmeerijad ja projektijuhid.
